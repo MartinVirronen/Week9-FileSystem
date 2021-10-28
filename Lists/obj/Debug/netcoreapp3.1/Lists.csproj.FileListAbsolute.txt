@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\opilane\source\repos\logitpe21\FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache
